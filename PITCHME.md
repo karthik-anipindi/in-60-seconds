@@ -7,7 +7,7 @@
 ![](assets/img/presentation.png)
 
 ---
-@title[Customize Slide Layout]
+@title[Gold Rush and Westward Expansion]
 
 @snap[west span-50]
 ## Customize Slide Content Layout
