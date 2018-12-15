@@ -122,7 +122,7 @@ During the time of the westward expansion to expand the United States, the U.S. 
 
 --
 
-### Thank You For
+## Thank You For
 ### Watching My
 ### Presentation 
 
