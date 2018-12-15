@@ -129,15 +129,15 @@
 @snap[east span-45]
 @img[shadow](assets/img/conference.png)
 @snapend
----
 
+---
 @snap[east span-50]
 ![](assets/img/presentation.png)
 @snapend
 
----?image=assets/img/presenter.jpg
+---
 
-@snap[north span-100 headline]
+@snap[west span-50 headline]
 #### Gold Rush and Westward Expansion
 @snapend
 
