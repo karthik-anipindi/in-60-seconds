@@ -5,7 +5,7 @@
 ---
 
 # KARTHIK ANIPINDI
-![](assets/img/presentation.png)
+![](in-60-seconds/assets/img/download.jpeg)
 
 ---?color=#E58537
 @title[Gold Rush and Westward Expansion]
