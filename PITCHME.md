@@ -11,8 +11,10 @@
 ---?color=#E58537
 @title[Gold Rush and Westward Expansion]
 
+---
+### My Question is Why Was The Gold Rush/Westward Expansion Important
 @snap[north-west]
-#### Why was Gold Rush and Westward Expansion Important?
+#### 
 @snapend
 @snap[west span-70]
 @ul[spaced text-white]
