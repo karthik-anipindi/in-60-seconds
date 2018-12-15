@@ -120,7 +120,7 @@ During the time of the westward expansion to expand the United States, the U.S. 
 ---
 
 @snapend
-@snap[south span-50]
+@snap[Middle span-50]
 @img[shadow](assets/img/09dc4edba32d20bfa02d9159556712ea--stage-musical-bye-bye-birdie.jpg)
 @snapend
 
