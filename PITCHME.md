@@ -13,13 +13,13 @@
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
 @snapend
-@snap[west span-55]
+@snap[west span-70]
 @ul[spaced text-white]
 Two primary outcomes of westward expansion were that Native Americans lost their homelands and settlers grew in population across the United States.
 @ulend
 
 @snapend
-@snap[east span-45]
+@snap[east span-30]
 @img[shadow](assets/img/conference.png)
 @snapend
 
@@ -27,12 +27,12 @@ Two primary outcomes of westward expansion were that Native Americans lost their
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
 @snapend
-@snap[west span-55]
+@snap[west span-70]
 @ul[spaced text-white]
 The gold rush was a huge contribution to the westward expansion.
 @ulend
 @snapend
-@snap[east span-45]
+@snap[east span-30]
 @img[shadow](assets/img/conference.png)
 @snapend
 
@@ -40,12 +40,12 @@ The gold rush was a huge contribution to the westward expansion.
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
 @snapend
-@snap[west span-55]
+@snap[west span-70]
 @ul[spaced text-white]
 James Wilson Marshall was trying to build a sawmill when he saw some gold at the site of the construction place. After he found it, word got out and the gold rush in California began on January 24, 1849. 
 @ulend
 @snapend
-@snap[east span-45]
+@snap[east span-30]
 @img[shadow](assets/img/conference.png)
 @snapend
 
