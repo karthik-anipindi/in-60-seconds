@@ -4,8 +4,8 @@
 
 ---
 
-#  BY: 
-# KARTHIK ANIPINDI
+##  BY: 
+## KARTHIK ANIPINDI
 
 
 ---?color=#E58537
@@ -40,7 +40,7 @@ James Wilson Marshall was trying to build a sawmill when he saw some gold at the
 @ulend
 @snapend
 @snap[east span-30]
-@img[shadow]()
+@img[shadow](assets/img/download.jpeg)
 @snapend
 
 ---?color=#E58537
@@ -53,7 +53,7 @@ During the year 1849, James Polk announced to everybody that there was gold in C
 @ulend
 @snapend
 @snap[east span-30]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/download.jpeg)
 @snapend
 
 ---?color=#E58537
@@ -66,7 +66,7 @@ Throughout the time period of the gold rush, since all the settlers came to Cali
 @ulend
 @snapend
 @snap[east span-30]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/download.jpeg)
 @snapend
 
 ---?color=#E58537
@@ -79,7 +79,7 @@ People who were settled into the west were usually farmers. They shipped their p
 @ulend
 @snapend
 @snap[east span-30]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/download.jpeg)
 @snapend
 
 
@@ -107,7 +107,7 @@ Because of the gold rush in California, the westward expansion was fueled, and t
 @ulend
 @snapend
 @snap[east span-30]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/download.jpeg)
 @snapend
 
 
