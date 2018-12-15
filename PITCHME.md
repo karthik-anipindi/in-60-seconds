@@ -117,6 +117,12 @@ During the time of the westward expansion to expand the United States, the U.S. 
 ### Watching My
 ### Presentation 
 
+---
+
+@snapend
+@snap[east span-30]
+@img[shadow](assets/img/09dc4edba32d20bfa02d9159556712ea--stage-musical-bye-bye-birdie.jpg)
+@snapend
 
 
 
