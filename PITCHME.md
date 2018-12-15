@@ -13,6 +13,9 @@
 
 
 ### My Question is Why Was The Gold Rush/Westward Expansion Important
+
+---
+
 @snap[north-west]
 #### 
 @snapend
