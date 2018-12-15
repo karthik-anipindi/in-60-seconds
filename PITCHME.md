@@ -38,10 +38,7 @@ The gold rush was a huge contribution to the westward expansion.
 @ul[spaced text-white]
 James Wilson Marshall was trying to build a sawmill when he saw some gold at the site of the construction place. After he tried to keep it a secret, word got out and the gold rush in California began on January 24, 1849.
 @ulend
-@snapend
-@snap[east span-30]
-@img[shadow](assets/img/download.jpeg)
-@snapend
+
 
 ---?color=#E58537
 @snap[north-west]
@@ -51,10 +48,7 @@ James Wilson Marshall was trying to build a sawmill when he saw some gold at the
 @ul[spaced text-white]
 During the year 1849, James Polk announced to everybody that there was gold in California, in the hope to increase the population in California. 
 @ulend
-@snapend
-@snap[east span-30]
-@img[shadow](assets/img/download.jpeg)
-@snapend
+
 
 ---?color=#E58537
 @snap[north-west]
@@ -64,10 +58,6 @@ During the year 1849, James Polk announced to everybody that there was gold in C
 @ul[spaced text-white]
 Throughout the time period of the gold rush, since all the settlers came to California, the Native Americans population decreased due to the space occupied by settlers. 
 @ulend
-@snapend
-@snap[east span-30]
-@img[shadow](assets/img/download.jpeg)
-@snapend
 
 ---?color=#E58537
 @snap[north-west]
@@ -79,7 +69,7 @@ People who were settled into the west were usually farmers. They shipped their p
 @ulend
 @snapend
 @snap[east span-30]
-@img[shadow](assets/img/download.jpeg)
+@img[shadow](assets/img/img-3.jpg)
 @snapend
 
 
@@ -91,10 +81,7 @@ People who were settled into the west were usually farmers. They shipped their p
 @ul[spaced text-white]
 Thomas Jefferson thought that the westward expansion was one of the many factors that would keep the newly born nation running for a long time so he declared that the United States should purchase New Orleans and the land along the Mississippi River from France. 
 @ulend
-@snapend
-@snap[east span-30]
-@img[shadow](assets/img/download.jpeg)
-@snapend
+
 
 
 ---?color=#E58537
@@ -105,10 +92,7 @@ Thomas Jefferson thought that the westward expansion was one of the many factors
 @ul[spaced text-white]
 Because of the gold rush in California, the westward expansion was fueled, and the United States was able to buy more land. 
 @ulend
-@snapend
-@snap[east span-30]
-@img[shadow](assets/img/download.jpeg)
-@snapend
+
 
 
 ---?color=#E58537
