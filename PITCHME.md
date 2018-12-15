@@ -5,7 +5,7 @@
 ---
 
 # KARTHIK ANIPINDI
-![](assets/img/download.jpeg)
+
 
 ---?color=#E58537
 @title[Gold Rush and Westward Expansion]
@@ -99,7 +99,7 @@ Thomas Jefferson thought that the westward expansion was one of the many factors
 @ulend
 @snapend
 @snap[east span-30]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/download.jpeg)
 @snapend
 
 
