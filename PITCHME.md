@@ -125,9 +125,10 @@ Because of the gold rush in California, the westward expansion was fueled, and t
 ---
 
 @snapend
-@snap[North span-50]
-@img[shadow](09dc4edba32d20bfa02d9159556712ea--stage-musical-bye-bye-birdie.jpg)
+@snap[east span-30]
+@img[shadow](assets/img/09dc4edba32d20bfa02d9159556712ea--stage-musical-bye-bye-birdie.jpg)
 @snapend
+
 
 
 
