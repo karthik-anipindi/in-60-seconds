@@ -5,7 +5,7 @@
 ---
 
 #  BY: 
-# KARTHIK ANIPINDIggv
+# KARTHIK ANIPINDI
 
 
 ---?color=#E58537
