@@ -128,3 +128,9 @@ During the time of the westward expansion to expand the United States, the U.S. 
 @snap[south span-100 text-06]
 #### BY KARTHIK ANIPINDI
 @snapend
+
+
+
+## Thank you for
+## Watching My
+## Presentation
