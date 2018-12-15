@@ -11,7 +11,7 @@
 @title[Gold Rush and Westward Expansion]
 
 #### Why was Gold Rush and Westward Expansion Important?
-[west span-55]
+@snap[west span-55]
 @ul[spaced text-white]
 - Two primary outcomes of westward expansion were that Native Americans lost their homelands and settlers grew in population across the United States.
 @ulend
