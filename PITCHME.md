@@ -5,7 +5,7 @@
 ---
 
 # KARTHIK ANIPINDI
-![](in-60-seconds/assets/img/download.jpeg)
+![](assets/img/download.jpeg)
 
 ---?color=#E58537
 @title[Gold Rush and Westward Expansion]
@@ -20,7 +20,7 @@ Two primary outcomes of westward expansion were that Native Americans lost their
 
 @snapend
 @snap[east span-30]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/download.jpeg)
 @snapend
 
 ---?color=#E58537
@@ -33,7 +33,7 @@ The gold rush was a huge contribution to the westward expansion.
 @ulend
 @snapend
 @snap[east span-30]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/download.jpeg)
 @snapend
 
 ---?color=#E58537
