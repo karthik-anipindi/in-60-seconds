@@ -19,7 +19,10 @@
 @ulend
 
 @snapend
----
+@snap[east span-45]
+@img[shadow](assets/img/conference.png)
+@snapend
+---?color=#E58537
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
 @snapend
@@ -28,7 +31,7 @@
 -The gold rush was a huge contribution to the westward expansion.
 @ulend
 @snapend
----
+---?color=#E58537
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
 @snapend
@@ -39,7 +42,7 @@
 @ulend
 @snapend
 
----
+---?color=#E58537
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
 @snapend
@@ -48,7 +51,7 @@
 -During the year 1849, James Polk announced to everybody that there was gold in California, in the hope to increase the population in California. 
 @ulend
 @snapend
----
+---?color=#E58537
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
 @snapend
@@ -57,7 +60,7 @@
 -Throughout the time period of the gold rush, because all the settlers came to California, the Native Americans population decreased due to the lack of space occupied by settlers. 
 @ulend
 @snapend
----
+---?color=#E58537
 
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
@@ -67,7 +70,7 @@
 -People who were settled into the west were usually farmers. They shipped their products from the Ohio and Mississippi Rivers to New Orleans for shipping outside the country. 
 @ulend
 @snapend
----
+---?color=#E58537
 
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
@@ -77,7 +80,7 @@
 -Thomas Jefferson thought that the westward expansion was one of the many factors that would keep the newly born nation running for a long time so he declared that the United States should purchase New Orleans and the land along the Mississippi River from France. 
 @ulend
 @snapend
----
+---?color=#E58537
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
 @snapend
@@ -86,7 +89,7 @@
 -Because of the gold rush in California, the westward expansion was fueled and the United States was able to buy more land. 
 @ulend
 @snapend
----
+---?color=#E58537
 
 @snap[north-west]
 #### Why was Gold Rush and Westward Expansion Important?
@@ -97,37 +100,20 @@
 @ulend
 @snapend
 
+@snap[east span-45]
+@img[shadow](assets/img/conference.png)
+@snapend
 ---
 @snap[east span-50]
 ![](assets/img/presentation.png)
 @snapend
 
----?color=#E58537
-@title[Add A Little Imagination]
-
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
-
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
-
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 headline]
-## Now It's Your Turn
+#### Gold Rush and Westward Expansion
 @snapend
 
 @snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+#### KARTHIK ANIPINDI
 @snapend
