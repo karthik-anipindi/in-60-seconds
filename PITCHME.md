@@ -59,7 +59,7 @@ During the year 1849, James Polk announced to everybody that there was gold in C
 @snapend
 @snap[west span-70]
 @ul[spaced text-white]
-Throughout the time period of the gold rush, because all the settlers came to California, the Native Americans population decreased due to the lack of space occupied by settlers. 
+Throughout the time period of the gold rush, because all the settlers came to California, the Native Americans population decreased due to the space occupied by settlers. 
 
 
 ---?color=#E58537
