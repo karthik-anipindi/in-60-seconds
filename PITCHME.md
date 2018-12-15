@@ -120,7 +120,7 @@ Because of the gold rush in California, the westward expansion was fueled and th
 During the time of the westward expansion to expand the United States, the U.S. government bought what we call now the Mississippi Valley from France by agreeing to pay $15,000,000. Because of these outcomes, the population increased on the west side of America
 @ulend
 
---
+---
 
 ## Thank You For
 ### Watching My
