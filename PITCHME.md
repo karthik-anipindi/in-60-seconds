@@ -8,7 +8,7 @@
 ## KARTHIK ANIPINDI
 
 
----?color=#E58537
+---?color=#E#159
 @title[Gold Rush and Westward Expansion]
 
 @snap[north-west]
