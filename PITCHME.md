@@ -19,6 +19,7 @@
 Two primary outcomes of westward expansion were that Native Americans lost their homelands and settlers grew in population across the United States.
 @ulend
 
+---?image=assets/img/grav-open-course-workflow-1.png&size=contain&transition=zoom
 
 ---?color=#E58537
 @snap[north-west]
